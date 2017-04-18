@@ -1,0 +1,79 @@
+@import url("reset.css");
+body{
+	background-color: #C0C0C0;
+}
+.navbar{
+	transition: all 0.518s;
+	height: 80px;
+	border-radius: 0;
+	margin-bottom: 0;
+	}
+nav{
+	padding-top: 15px;
+	border: none;
+
+}
+.navbar-brand img{
+	max-height: 50px;
+	vertical-align: middle;
+	margin-top: -15px;
+}
+/*.navbar-nav li{
+	background-color: #080808;
+}*/
+#span{
+	float: right;
+	width: 100px;
+	height: 30px;
+	background-color: hotpink;
+	line-height: 30px;
+	text-align: center;
+	margin-top: 10px;
+	color: #fff;
+	margin-right: 20px;
+}
+.swiper-slide img{
+	width: 100%;
+	height: auto;
+}
+.main{
+	margin-top: 20px;
+	background-color: #fff;
+}
+.main h3{
+	font-size: 18px;
+	padding-bottom: 10px;
+	border-bottom: 1px #DDDDDD solid;
+}
+.main p{
+	margin-top: 30px;
+	font-size: 12px;
+	line-height: 170%;
+	color: #8d8d8d;
+}
+#firsts{
+	margin-top: 10px;
+}
+.img-responsive{
+	width: 100%;
+	vertical-align: middle;
+	margin-bottom: 10px;
+}
+.text-left a{
+	float: right;
+	font-size: 12px;
+	color: #FF0000;
+}
+button{
+	border: none;
+	padding: 10px;
+}
+.mod{
+	background-color: #fff;
+}
+.modelinfo {
+    line-height: 160%;
+    color: #696969;
+    padding: 5px 0;
+    max-height: 160px;
+}
